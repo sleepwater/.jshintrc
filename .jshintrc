@@ -3,42 +3,42 @@
     // http://jshint.com/docs/options/
 
     // Enforcing options
-    "bitwise": true,
-    "camelcase": true,
-    "curly": true,
-    "eqeqeq": true,
-    "forin": true,
-    "freeze": true,
-    "immed": false,
-    "indent": 4,
-    "latedef": false, // TBD
-    "newcap": false, // TBD
-    "noarg": false, // TBD
-    "noempty": true,
-    "nonbsp": true,
-    "nonew": false, // TBD
-    "plusplus": false,
-    "quotmark": "single",
-    "undef": true,
-    "unused": true,
-    "strict": true,
-    "maxparams": false,
-    "maxdepth": false,
+    "bitwise"      : true,
+    "camelcase"    : true,
+    "curly"        : true,
+    "eqeqeq"       : true,
+    "forin"        : true,
+    "freeze"       : true,
+    "immed"        : false,
+    "indent"       : 4,
+    "latedef"      : false, // TBD
+    "newcap"       : false, // TBD
+    "noarg"        : false, // TBD
+    "noempty"      : true,
+    "nonbsp"       : true,
+    "nonew"        : false, // TBD
+    "plusplus"     : false,
+    "quotmark"     : "single",
+    "undef"        : true,
+    "unused"       : true,
+    "strict"       : true,
+    "maxparams"    : false,
+    "maxdepth"     : false,
     "maxstatements": false,
     "maxcomplexity": false,
-    "maxlen": false,
+    "maxlen"       : false,
 
     // Relaxing options
     // TODO
 
     // Environments
-    "browser": true,
-    "devel": true,
-    "jquery": false,
-    "node": false,
-    "nonstandard": false,
-    "phantom": false,
-    "worker": false,
+    "browser"      : true,
+    "devel"        : true,
+    "jquery"       : false,
+    "node"         : false,
+    "nonstandard"  : false,
+    "phantom"      : false,
+    "worker"       : false,
 
     // Custom Globals
     // Used by Sublime Text Plugin: JSHint Gutter

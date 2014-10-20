@@ -1,4 +1,4 @@
-.jshintrc
+JSHint options
 =========
 
-Custom configuration file of JSHint
+Custom My JSHint options base on [JSHint Options Reference](http://jshint.com/docs/options/). 

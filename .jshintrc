@@ -66,8 +66,8 @@
     // Custom Globals
     // Used by Sublime Text Plugin: JSHint Gutter
     // https://github.com/victorporof/Sublime-JSHint
-    "globals": {
+    "globals": [
         "define",
         "require"
-    }
+    ]
 }

@@ -1,8 +1,4 @@
 {
-    // Custom My JSHint options based on JSHint website
-    // http://jshint.com/docs/options/
-
-    // Enforcing options
     "bitwise"      : true,
     "camelcase"    : true,
     "curly"        : true,
@@ -11,12 +7,12 @@
     "freeze"       : true,
     "immed"        : false,
     "indent"       : 4,
-    "latedef"      : false, // TBD
-    "newcap"       : false, // TBD
-    "noarg"        : false, // TBD
+    "latedef"      : false,
+    "newcap"       : false,
+    "noarg"        : false,
     "noempty"      : true,
     "nonbsp"       : true,
-    "nonew"        : false, // TBD
+    "nonew"        : false,
     "plusplus"     : false,
     "quotmark"     : "single",
     "undef"        : true,
@@ -28,11 +24,10 @@
     "maxcomplexity": false,
     "maxlen"       : false,
 
-    // Relaxing options
     "asi"          : false,
     "boss"         : false,
     "debug"        : false,
-    "eqnull"       : false, // TBD
+    "eqnull"       : false,
     "esnext"       : false,
     "evil"         : false,
     "expr"         : false,
@@ -47,14 +42,13 @@
     "multistr"     : false,
     "notypeof"     : false,
     "proto"        : false,
-    "scripturl"    : false, // TBD
+    "scripturl"    : false,
     "shadow"       : false,
     "sub"          : false,
     "supernew"     : false,
     "validthis"    : false,
     "noyield"      : false,
 
-    // Environments
     "browser"      : true,
     "devel"        : true,
     "jquery"       : false,
@@ -63,9 +57,6 @@
     "phantom"      : false,
     "worker"       : false,
 
-    // Custom Globals
-    // Used by Sublime Text Plugin: JSHint Gutter
-    // https://github.com/victorporof/Sublime-JSHint
     "globals": [
         "define",
         "require"
